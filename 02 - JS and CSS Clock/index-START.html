@@ -68,6 +68,14 @@
       transition-timing-function: cubic-bezier(0.02, 1.76, 0.58, 1);
     }
 
+    .second-hand {
+      background: red;
+      height: 3px;
+    }
+    .hour-hand {
+      height: 10px;
+    }
+
   </style>
 
   <script>
@@ -78,7 +86,7 @@
       const now = new Date();
       //second hand declarations
       const s = now.getSeconds();
-      const sDeg = (( s / 60 ) * 360) + 90;
+      const sDeg = s + (( s / 60 ) * 360) + 90;
       const sHand = document.querySelector('.second-hand');
       //minute hand declarations
       const m = now.getMinutes();
