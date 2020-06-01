@@ -11,3 +11,4 @@ This file will list the struggles that I face and my problem solving techniques 
 
 ## May 31/June 1, 2020
   - Finding it hard to focus, forgot to do it this morning and tonight I've been reading the news from the U.S. :: worrying about my boyfriend. Going to postpone completing it tonight.
+  - Creating a new repo to show all commits and contributions instead of the forked project.
