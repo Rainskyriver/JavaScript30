@@ -9,4 +9,5 @@ This file will list the struggles that I face and my problem solving techniques 
   - Finished Day two clock activity with relative ease. Did a little extra and fixed a bug in the original
   - Time Spent :: 25mins
 
-## May 31, 2020
+## May 31/June 1, 2020
+  - Finding it hard to focus, forgot to do it this morning and tonight I've been reading the news from the U.S. :: worrying about my boyfriend. Going to postpone completing it tonight.
