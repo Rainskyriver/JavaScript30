@@ -15,3 +15,6 @@ This file will list the struggles that I face and my problem solving techniques 
 ## June 2, 2020
   - Finished Day Three CSS variables activity
   - Time Spent :: 40mins
+## June 5, 2020
+  -Finished Day Four exercises
+  -Time Spent :: 45mins
