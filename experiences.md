@@ -18,3 +18,5 @@ This file will list the struggles that I face and my problem solving techniques 
 ## June 5, 2020
   -Finished Day Four exercises
   -Time Spent :: 45mins
+## June 7, 2020
+  
