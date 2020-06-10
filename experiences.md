@@ -24,3 +24,7 @@ This file will list the struggles that I face and my problem solving techniques 
 ## June 8, 2020
   -Finished Day Six
   -Time Spent :: 30mins
+## June 9, 2020
+  -Feeling a lot more confident with my Javascript and problem solving. More comfortable with arrow functions
+  -Finished Day Seven
+  -Time Spent :: 8mins
