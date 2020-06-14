@@ -30,3 +30,5 @@ This file will list the struggles that I face and my problem solving techniques 
   -Time Spent :: 8mins
 ## June 14, 2020
   -Skipped a couple days due to personal reasons [TIP TO SELF : DO THIS IN THE MORNING]
+  -Finished Day Eight
+  -Time Spent :: 35mins
