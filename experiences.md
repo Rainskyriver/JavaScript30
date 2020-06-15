@@ -32,3 +32,5 @@ This file will list the struggles that I face and my problem solving techniques 
   -Skipped a couple days due to personal reasons [TIP TO SELF : DO THIS IN THE MORNING]
   -Finished Day Eight
   -Time Spent :: 35mins
+## June 15, 2020
+  -Hard morning, woke up early. Having coffee for the first time in a couple months, let's do this.
