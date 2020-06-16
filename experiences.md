@@ -38,3 +38,5 @@ This file will list the struggles that I face and my problem solving techniques 
   -Time Spent :: 15mins
 ## June 16, 2020
   -Excited for a job test today, doing this early as a bit of a warmup
+  -Finished Day Ten, had to look at the solution once because I was stuck
+  -Time Spent :: 25mins
