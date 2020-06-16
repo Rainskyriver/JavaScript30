@@ -101,9 +101,19 @@
 
     const boxes = document.querySelectorAll('.inbox input[type="checkbox"]');
     function checkChecker(e) {
+      //variable for whether or not the box needs to be checked
+      let checkForCheck = false;
       //check for shift key
       if (e.shiftKey && this.checked) {
-        console.log('hey you clicked me');
+        boxes.forEach(box => {
+          console.log(box)
+          if (box === this || box === currentCheck) {
+            checkForCheck = !checkForCheck;
+          }
+          if (checkForCheck) {
+            box.checked = true;
+          }
+        })
       }
       currentCheck = this;
     }
