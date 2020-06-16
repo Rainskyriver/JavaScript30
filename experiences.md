@@ -36,3 +36,7 @@ This file will list the struggles that I face and my problem solving techniques 
   -Hard morning, woke up early. Having coffee for the first time in a couple months, let's do this.
   -Finished Day Nine :: Quick day, but learned a lot of console commands I didn't know before, some like .group I can see using to tidy up my console in the future, especially when working with others.
   -Time Spent :: 15mins
+## June 16, 2020
+  -Excited for a job test today, doing this early as a bit of a warmup
+  -Finished Day Ten, had to look at the solution once because I was stuck
+  -Time Spent :: 25mins

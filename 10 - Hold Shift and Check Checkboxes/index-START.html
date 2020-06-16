@@ -95,7 +95,29 @@
     </div>
   </div>
 
-<script>
-</script>
+  <script>
+    //Have first check, and last check variables (Nevermind, only need one checked because 'this' is the lastChecked)
+    let currentCheck;
+
+    const boxes = document.querySelectorAll('.inbox input[type="checkbox"]');
+    function checkChecker(e) {
+      //variable for whether or not the box needs to be checked
+      let checkForCheck = false;
+      //check for shift key
+      if (e.shiftKey && this.checked) {
+        boxes.forEach(box => {
+          if (box === this || box === currentCheck) {
+            checkForCheck = !checkForCheck;
+          }
+          if (checkForCheck) {
+            box.checked = true;
+          }
+        })
+      }
+      currentCheck = this;
+    }
+    //Have an event listener for shiftclick
+    boxes.forEach(box => box.addEventListener('click', checkChecker));
+  </script>
 </body>
 </html>
