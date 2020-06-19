@@ -42,3 +42,6 @@ This file will list the struggles that I face and my problem solving techniques 
   -Time Spent :: 25mins
 ## June 18, 2020
   -Finished Day Eleven, Time Spent :: 40mins
+## June 19, 2020
+  -Very simple day, probably something simple and fun to add to a personal website sometime.
+  -Time Spent :: 5mins
