@@ -47,3 +47,4 @@ This file will list the struggles that I face and my problem solving techniques 
   -Time Spent :: 5mins
 ## June 23, 2020
   -Skipped a few days
+  -Time Spent :: 25mins
