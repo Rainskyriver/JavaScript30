@@ -60,6 +60,10 @@
     const sliderImages = document.querySelectorAll('.slide-in');
 
     const checkSlide = (e) => {
+      sliderImages.forEach(image => {
+        const slideInAt = (window.scrollY + window.innerHeight) - image.height / 2;
+        const imageBottom = image.offsetTop + image.height;
+      })
     }
 
     window.addEventListener('scrolled', debounce(checkSlide));
