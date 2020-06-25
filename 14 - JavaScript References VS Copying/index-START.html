@@ -18,7 +18,7 @@
     // You might think we can just do something like this:
 
     // however what happens when we update that array?
-
+    /*BAD - Arrays reference the same point in memory*/
     // now here is the problem!
 
     // oh no - we have edited the original array too!
@@ -26,7 +26,7 @@
     // Why? It's because that is an array reference, not an array copy. They both point to the same array!
 
     // So, how do we fix this? We take a copy instead!
-
+    const team2 = placers.slice();
     // one way
 
     // or create a new array and concat the old one in
