@@ -49,4 +49,4 @@ This file will list the struggles that I face and my problem solving techniques 
   -Skipped a few days
   -Time Spent :: 25mins
 ## June 24, 2020
-  -
+  -Today is just review of how to safely copy arrays and objects
